@@ -27,4 +27,4 @@ How to play:
 
 Click Totally Trivial Trivia heading to start the game,
 once the game starts you have 30 seconds to answer the questions displayed. 
-Answer results will display at the end of the alloted time.
+Answer results will display at the end of the given time.
